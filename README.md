@@ -1,4 +1,4 @@
-# 🔐 Linux Security Audit Toolkit
+# 🔐 Linux Security Audit Script
 
 This repository contains a collection of security audit scripts designed
 to perform comprehensive hardening and compliance checks on Linux
