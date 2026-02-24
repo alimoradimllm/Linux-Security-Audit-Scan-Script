@@ -65,7 +65,7 @@ runner script.
 ### 1️⃣ Clone the Repository
 
 ``` bash
-git clone https://github.com/your-username/linux-security-audit.git
+git clone https://github.com/alimoradimllm/Linux-Security-Audit-Scan-Script.git
 cd linux-security-audit
 ```
 
