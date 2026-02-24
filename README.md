@@ -66,7 +66,7 @@ runner script.
 
 ``` bash
 git clone https://github.com/alimoradimllm/Linux-Security-Audit-Scan-Script.git
-cd linux-security-audit
+cd Linux-Security-Audit-Scan-Script
 ```
 
 ### 2️⃣ Make Scripts Executable
